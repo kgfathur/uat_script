@@ -1,5 +1,5 @@
 # Script Utama adalah "scriptv5.sh" 
-# pastikan pyhton (disarankan python3 terinstal) > untuk kebutuhan plot grafik
+# pastikan pyhton terinstal (disarankan python3) > untuk kebutuhan plot grafik
 ## masukan data mentah sosreport (tar.xz) di folder "data"
 ## folder keluaran log dan gambar grafik ada di folder "output"
 
