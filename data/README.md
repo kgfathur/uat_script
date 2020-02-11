@@ -1,0 +1,1 @@
+# Ini berisi data mentah sosreport format ".tar.xz"
